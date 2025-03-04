@@ -1,0 +1,16 @@
+# Ignore WordPress core files (optional if you're only tracking custom themes/plugins)
+wp-admin/
+wp-includes/
+readme.html
+license.txt
+
+# Ignore configuration files
+wp-config.php
+
+# Ignore uploaded content
+wp-content/uploads/
+
+# Ignore OS and IDE specific files
+.DS_Store
+*.log
+node_modules/
